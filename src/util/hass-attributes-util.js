@@ -8,6 +8,7 @@ hassAttributeUtil.DOMAIN_DEVICE_CLASS = {
     "door",
     "garage_door",
     "gas",
+    "gate",
     "heat",
     "light",
     "lock",

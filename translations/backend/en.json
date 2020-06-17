@@ -73,6 +73,10 @@
         "gas": {
           "off": "Clear",
           "on": "Detected"
+        }
+        "gate": {
+          "off": "Closed",
+          "on": "Open"
         },
         "heat": {
           "off": "Normal",

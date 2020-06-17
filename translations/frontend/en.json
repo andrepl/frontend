@@ -124,6 +124,10 @@
                 "off": "Clear",
                 "on": "Detected"
             },
+            "gate": {
+                "off": "Closed",
+                "on": "Open"
+            },
             "heat": {
                 "off": "Normal",
                 "on": "Hot"

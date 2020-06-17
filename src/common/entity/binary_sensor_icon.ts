@@ -21,6 +21,8 @@ export const binarySensorIcon = (state: HassEntity) => {
     case "safety":
     case "smoke":
       return activated ? "hass:shield-check" : "hass:alert";
+    case gate:
+      return activated ? "hass:gate" : "hass:gate-open"
     case "heat":
       return activated ? "hass:thermometer" : "hass:fire";
     case "light":
